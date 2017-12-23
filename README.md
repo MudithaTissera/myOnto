@@ -1,2 +1,2 @@
 # myOnto
-My Ontology Creation Project
+My Ontology Creation Project - learning the steps
